@@ -1,0 +1,2 @@
+# WCSPokerBot
+WCS Poker Bot
